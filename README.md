@@ -1,12 +1,12 @@
-# 🔍 VeriWork AI - AI-Based Fraud Job Detection System
+🔍 VeriWork AI - AI-Based Fraud Job Detection System
 
-## 📌 Overview
+📌 Overview
 VeriWork AI is a full-stack AI-powered system that detects fraudulent job postings using Machine Learning.  
 It helps users identify fake job advertisements and improves job market trust and safety.
 
 ---
 
-## ⚙️ Tech Stack
+⚙️ Tech Stack
 
 ### Frontend
 - React (Vite)
@@ -28,7 +28,7 @@ It helps users identify fake job advertisements and improves job market trust an
 
 ---
 
-## 🚀 Features
+🚀 Features
 - Detect fake job postings using AI model
 - Employer job posting system
 - Secure authentication (JWT)
@@ -37,11 +37,9 @@ It helps users identify fake job advertisements and improves job market trust an
 
 ---
 
-## 🧠 Machine Learning
+🧠 Machine Learning
 - Classification model trained on job dataset
 - Predicts: REAL or FAKE job postings
 - Flask API connects ML model with backend
 
 ---
-
-## 📁 Project Structure
